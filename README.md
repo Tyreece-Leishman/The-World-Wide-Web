@@ -1,5 +1,8 @@
 # Exploring the World Wide Web
 
+![image](https://github.com/Tyreece-Leishman/The-World-Wide-Web/assets/116001061/3baf5e3a-05e7-4c3a-9f0f-6bbd90189395)
+
+
 ## HTML Structure
 - **Declaration**: Started by declaring the document as an HTML5 one with `<!DOCTYPE html>`.
 - **Document Structure**: Established the main structure using the `<html>` element, setting the language attribute to `en` (English).
