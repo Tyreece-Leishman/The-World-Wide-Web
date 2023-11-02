@@ -1,48 +1,53 @@
-# Exploring the World Wide Web
+# The World Wide Web Overview
 
-![image](https://github.com/Tyreece-Leishman/The-World-Wide-Web/assets/116001061/3baf5e3a-05e7-4c3a-9f0f-6bbd90189395)
+## Introduction
 
+The World Wide Web, often referred to as 'the web,' is a global information-sharing platform that relies on the Hypertext Transfer Protocol (HTTP) to provide access to information over the internet. It is built on top of the internet infrastructure and facilitates seamless communication between devices across the network by using common protocols.
 
-## HTML Structure
-- **Declaration**: Started by declaring the document as an HTML5 one with `<!DOCTYPE html>`.
-- **Document Structure**: Established the main structure using the `<html>` element, setting the language attribute to `en` (English).
+## Key Principles of the World Wide Web
 
-## Head Section
-- **Metadata**: In the `<head>` section, I included various meta tags for character encoding and viewport settings.
-- **Title**: Gave the page a title using the `<title>` element.
-- **Favicon**: Linked a favicon with the `<link>` element.
-- **Font Styles**: Included `<link>` elements to preconnect to Google Fonts and load font styles.
+- **The Internet**: The internet is a vast global network connecting numerous devices, including various subnetworks. It enables devices to communicate and exchange information using different protocols.
 
-## Page Content
-- **Body Element**: The main content was enclosed within the `<body>` element.
-- **Header**: Created a `<header>` section containing a centered `<h1>` (main heading) and a `<p>` (paragraph) explaining the World Wide Web.
+- **Webpages**: Webpages are created using Hypertext Markup Language (HTML) and are hosted on web servers. These pages can be accessed by other devices on the network through HTTP requests.
 
-## Visual Break
-- **Horizontal Line**: Following the header, I inserted an `<hr>` element with a width of 80% to create a visual break.
+- **Browsers**: Browsers are computer programs designed to interpret and display HTML files, allowing users to view and interact with web content. Popular browsers include Firefox, Internet Explorer, Safari, Google Chrome, and Microsoft Edge.
 
-## Main Content Sections
-For different content sections (e.g., "The Internet," "Webpages," "Browsers," etc.), I consistently followed this structure:
-- **Subheading**: Added a subheading using `<h2>`.
-- **Image**: Inserted an image using the `<img>` element with an `alt` attribute and styling.
-- **Explanatory Paragraph**: Provided an explanatory paragraph using the `<p>` element.
+- **Servers**: Servers are computers on the network dedicated to serving webpages and files upon request. They are discoverable via IP addresses.
 
-## List of Browsers
-- In the "Browsers" section, I used an unordered list (`<ul>`) to list common browsers and used list items (`<li>`) for each browser.
+- **Domains**: Domains are like addresses for servers, helping browsers locate specific files. A subdomain can further divide a website into sections. For example, "bookings.example.com" may lead to a different server than "www.example.com."
 
-## Table for URLs
-- In the "URLs" section, I added a table using the `<table>` element with table rows (`<tr>`) for headers and data. I used table data cells (`<td>`) for each component (Protocol, Subdomain, Domain, File path).
+- **URLs (Uniform Resource Locators)**: URLs provide the network location for specific resources, such as webpages, images, or videos. A typical URL consists of segments, including the protocol, subdomain, domain, and file path.
 
-## Repeated Structure
-- I maintained a consistent structure for other sections ("DNS," "Putting it all together").
+- **DNS (Domain Name System)**: DNS is a network of servers responsible for translating domain names into IP addresses. It functions like a phone book, mapping the domain you request to the associated IP address.
 
-## Completing the Document
-- Ended the main content with another horizontal line using `<hr>`.
+## How It Works
 
-## Final Section
-- In the "Putting it all together" section, I provided an ordered list (`<ol>`) with list items (`<li>`) explaining the steps of what happens when visiting a webpage in a browser.
+Here's a step-by-step guide to what happens each time you visit a webpage through your browser:
 
-## Closing Tags
-- Ensured that all opening tags had corresponding closing tags to maintain proper HTML structure.
+1. The user enters a URL into the browser (e.g., www.example.com).
 
-## Inline CSS Styles
-- Applied inline CSS styles to elements (e.g., `style="text-align: center;"`) to control text alignment and other styling aspects.
+2. The browser queries a DNS server to find the domain's IP address.
+
+3. The DNS server provides the IP address of the file server.
+
+4. The browser requests the desired file from the server with the obtained IP address.
+
+5. The server responds by delivering the requested file to the browser.
+
+6. The browser displays the file to the user.
+
+## Preview
+
+![World Wide Web](https://github.com/Tyreece-Leishman/The-World-Wide-Web/assets/116001061/3baf5e3a-05e7-4c3a-9f0f-6bbd90189395)
+
+## Instructions for Creating This Website
+
+1. First step instructions.
+
+2. Second step instructions.
+
+3. Third step instructions.
+
+4. Fourth step instructions.
+
+5. Fifth step instructions.
