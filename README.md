@@ -1,4 +1,5 @@
-# The World Wide Web Overview
+![The World Wide Web Overview](https://github.com/Tyreece-Leishman/The-World-Wide-Web/assets/116001061/1878d827-4d5a-42e1-beee-a3c4173348b4)
+
 
 ## Introduction
 
