@@ -4,22 +4,6 @@
 
 The World Wide Web, often referred to as 'the web,' is a global information-sharing platform that relies on the Hypertext Transfer Protocol (HTTP) to provide access to information over the internet. It is built on top of the internet infrastructure and facilitates seamless communication between devices across the network by using common protocols.
 
-## Key Principles of the World Wide Web
-
-- **The Internet**: The internet is a vast global network connecting numerous devices, including various subnetworks. It enables devices to communicate and exchange information using different protocols.
-
-- **Webpages**: Webpages are created using Hypertext Markup Language (HTML) and are hosted on web servers. These pages can be accessed by other devices on the network through HTTP requests.
-
-- **Browsers**: Browsers are computer programs designed to interpret and display HTML files, allowing users to view and interact with web content. Popular browsers include Firefox, Internet Explorer, Safari, Google Chrome, and Microsoft Edge.
-
-- **Servers**: Servers are computers on the network dedicated to serving webpages and files upon request. They are discoverable via IP addresses.
-
-- **Domains**: Domains are like addresses for servers, helping browsers locate specific files. A subdomain can further divide a website into sections. For example, "bookings.example.com" may lead to a different server than "www.example.com."
-
-- **URLs (Uniform Resource Locators)**: URLs provide the network location for specific resources, such as webpages, images, or videos. A typical URL consists of segments, including the protocol, subdomain, domain, and file path.
-
-- **DNS (Domain Name System)**: DNS is a network of servers responsible for translating domain names into IP addresses. It functions like a phone book, mapping the domain you request to the associated IP address.
-
 ## How It Works
 
 Here's a step-by-step guide to what happens each time you visit a webpage through your browser:
@@ -42,12 +26,32 @@ Here's a step-by-step guide to what happens each time you visit a webpage throug
 
 ## Instructions for Creating This Website
 
-1. First step instructions.
+1. Start with the basic HTML structure by including <!DOCTYPE html>, <html>, <head>, and <body> elements.
 
-2. Second step instructions.
+2. Define the character set and add a viewport meta tag inside the <head>.
 
-3. Third step instructions.
+3. Set a title for the webpage using <title>.
 
-4. Fourth step instructions.
+4. Link a favicon using the <link> element with the rel attribute.
 
-5. Fifth step instructions.
+5. Create a header section using the <header> element.
+
+6. Use <h1> for the main heading.
+
+7. Inside the <main> element, create sections with <h2> headings.
+
+8. Add a descriptions using <p> elements within each section.
+
+9. Use an <ul> for the list of common browsers, and list items <li> for each browser.
+
+10. For the URL example, use a <table> with <tr>, <th>, and <td> elements for formatting.
+
+11. Add images using <img> tags with src, alt, and width attributes.
+
+12. Optionally, add a <hr> element for visual separation.
+
+13. Use <p> tag to explain the content in each section.
+
+14. Close all HTML tags properly to maintain structure.
+
+
