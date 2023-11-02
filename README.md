@@ -26,7 +26,9 @@ Here's a step-by-step guide to what happens each time you visit a webpage throug
 ![World Wide Web](https://github.com/Tyreece-Leishman/The-World-Wide-Web/assets/116001061/3baf5e3a-05e7-4c3a-9f0f-6bbd90189395)
 
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+
 <br />
+
 ## Instructions for Creating This Website
 
 1. Start with the basic HTML structure by including !DOCTYPE html, html, head, and body elements.
