@@ -1,4 +1,5 @@
-![The World Wide Web Overview](https://github.com/Tyreece-Leishman/The-World-Wide-Web/assets/116001061/1878d827-4d5a-42e1-beee-a3c4173348b4)
+![image](https://github.com/Tyreece-Leishman/The-World-Wide-Web/assets/116001061/08e1ffab-9ec9-40c3-b4c2-de78d1c2becd)
+
 
 
 ## Introduction
